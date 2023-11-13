@@ -1,2 +1,2 @@
 # Easy-Scribe
- React web based transcription & translation app that uses web workers to run ML models in the browser
+ EasyScribe is a React-based web application that leverages web workers and Hugging Face.js for in-browser machine learning. Users can effortlessly record or upload MP3 files, allowing the ML model to transcribe the audio into text. Additionally, EasyScribe offers translation capabilities, enabling users to convert the transcribed text into multiple languages. The tech stack includes React.js, Hugging Face.js, Node.js, and Tailwind CSS, ensuring a seamless and user-friendly experience.
